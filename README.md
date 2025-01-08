@@ -24,28 +24,50 @@
 
 <h3>🚀 프로젝트 소개</h3>
 
-<b>메인페이지 기능 사용녹화  </b>
+<b>🗺️ 관광지 추천 서비스  </b>
 
 <img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="홈"/>
 
 <ul>
-  <li>메인페이지 설명.</li>
-  <li>메인페이지 설명</li>
-  <li>메인페이지 설명</li>
+<li>
+  <b> "어디로 떠날지 고민되시나요?"</b><br/>
+ 한국관광공사가 엄선한 각 지역의 대표 관광지, 맛집, 그리고 편안한 숙박업소를 추천합니다.
+여행 계획부터 준비까지, 한곳에서 쉽고 빠르게 해결하세요!
+</li> <br/>
+	 <li>
+     <b>당신만을 위한 맞춤형 추천! </b><br/>
+	원하는 지역을 선택하면, 가장 인기 있는 관광지와 숨겨진 명소를 한눈에 확인할 수 있습니다.
+"어디를 가야 할지 모르겠다면? 우리의 추천을 믿어보세요!"
+   </li><br/>
+ <li>
+   <b>맛집과 숙소까지 한 번에! </b><br/>
+여행의 즐거움을 더해줄 현지 맛집과 편안한 숙소 정보도 함께 제공합니다.
+"여행은 먹는 재미와 쉬는 즐거움이죠!"
+ </li>
 </ul>
 
-<b>NewPlan 기능 사용 녹화  </b>
+<b>🗺️ 여행 계획 서비스 (newPlan 녹화 이미지 추가예정)</b>
 
-<img src="" alt="피드"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="피드"/>
 
+
+
+<h3>"새로운 여행을 계획하세요!"</h3>
 <ul>
-  <li>newplan 에서 사용하는 기능에 대한 설명  </li>
-  <li>newplan 설명</li>
+<li>날짜와 여행 제목을 생성하여 나만의 특별한 여행 일정을 시작해보세요.</li>
+<li>각 날짜별로 방문할 여행지를 추가하고, 출발지와 목적지, 경유지를 설정하여 이동 경로를 한눈에 확인할 수 있습니다.</li> 
+<li>여행 준비물과 체크리스트를 작성하여 필요한 물품을 빠짐없이 챙기고, 준비 상황을 손쉽게 관리하세요.</li>
 </ul>
+<b>이제 복잡한 계획은 그만! </b> <br/>
+여행의 모든 것을 한 곳에서 간편하게 관리하며, 완벽한 여행을 준비하세요.  <br/>
+당신의 다음 여행을 더 쉽고 즐겁게 만들어줄 서비스가 기다리고 있습니다!  <br/>
+<br/>
+
+
 
 <b>마이플랜 기능 사용 녹화   (1)</b>
 
-<img src="" alt="일기 작성"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="일기 작성"/>
 
 <ul>
   <li>마이플랜 기능에서 수정하는것에 대한 설명 .</li>
@@ -54,7 +76,7 @@
 
 <b>회원가입 로그인 소셜로그인  </b>
 
-<img src="" alt="내 일기"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="내 일기"/>
 
 <ul>
   <li>회원가입 설명.</li>
