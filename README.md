@@ -20,7 +20,7 @@
 
 <b>메인페이지 기능 사용녹화  </b>
 
-<img src="" alt="홈"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/react/src/img/background.svg" alt="홈"/>
 
 <ul>
   <li>메인페이지 설명.</li>
