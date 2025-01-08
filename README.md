@@ -2,7 +2,7 @@
 <h1>ItTrip Service</h1>
 
 <div align="center">
-  <img src="https://github.com/Fk1128/ittrip-project/blob/test/img/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
+  <img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
 </div>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <b>메인페이지 기능 사용녹화  </b>
 
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/react/src/img/background.svg" alt="홈"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="홈"/>
 
 <ul>
   <li>메인페이지 설명.</li>
