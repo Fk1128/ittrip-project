@@ -6,17 +6,17 @@
 </div>
 
 <br/>
+<h3>여행 계획을 쉽고 편리하게 !</h3>
+<b>🗺️ 여행 계획 관리 서비스</b><br/>
+<br/>
 
-> 🗺️ 여행 계획 관리 서비스
-여행 계획을 쉽고 편리하게 !
-> <br/>
 > 여행 제목과 날짜를 설정하고,
 > 경로와 준비물까지 한 번에 관리할 수 있는 서비스입니다. 
 > <br/>
 > 더불어, 지역별 추천 관광지, 숙박업소, 음식점 정보를 제공하여 여행 준비를 더욱 완벽하게 도와드립니다.
->
-> - **비로그인 상태**: 각 지역별 추천 관광지, 맛집, 숙박 정보를 확인할 수 있습니다.  
-> - **로그인 후 사용 가능 기능**: 여행 계획 작성 및 저장 수정이 가능합니다 .
+> <br/>
+> **비로그인 상태**: 각 지역별 추천 관광지, 맛집, 숙박 정보를 확인할 수 있습니다.  
+> **로그인 후 사용 가능 기능**: 여행 계획 작성 및 저장 수정이 가능합니다 .
 
 <br/>
 <p align="center">
@@ -49,9 +49,9 @@
  </li>
 </ul>
 
-<b>🗺️ 여행 계획 서비스 (newPlan 녹화 이미지 추가예정)</b>
+<b>🗺️ 여행 계획 서비스 </b>
 
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="피드"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="newPlan"/>
 
 
 
@@ -70,7 +70,7 @@
 
 <b>🗂️ 마이플랜 페이지</b>
 
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="일기 작성"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="마이플랜"/>
 
 <h3>"내가 세운 여행 계획을 한눈에 확인하고 관리하세요!"</h3>
 <ul>
@@ -88,5 +88,9 @@
 마이플랜 페이지는 당신의 여행 관리를 더욱 효율적이고 체계적으로 만들어줍니다.<br/>
 이제 저장된 모든 여행 계획을 손쉽게 관리하고, 완벽한 여행을 준비하세요! <br/>
  <br/>
+
+<h1><b>🛠️Tech Stack</b></h1>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="테크스택"/>
+
 
 
