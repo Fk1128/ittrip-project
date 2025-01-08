@@ -58,7 +58,7 @@
 
 <b>🗺️ New Plan 페이지 </b>
 
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="newPlan"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/NewPlan.gif" alt="newPlan"/>
 
 
 
@@ -75,7 +75,7 @@
 
 <b>🗂️ My Plan 페이지</b>
 
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="마이플랜"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/MyPlan.gif" alt="마이플랜"/>
 
 <h3>"내가 세운 여행 계획을 한눈에 확인하고 관리하세요!"</h3>
 <ul>
