@@ -7,7 +7,7 @@
 
 <br/>
 <h3>여행 계획을 쉽고 편리하게 !</h3>
-<b>🗺️ 여행 계획 관리 서비스</b><br/>
+<b>📅 여행 계획 관리 서비스</b><br/>
 <br/>
 
 > 여행 제목과 날짜를 설정하고,
@@ -27,7 +27,7 @@
 
 <h3>🚀 프로젝트 소개</h3>
 
-<b>🗺️ 관광지 추천 서비스  </b>
+<b>📸관광지 추천 서비스  </b>
 
 <img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="홈"/>
 
@@ -90,7 +90,7 @@
  <br/>
 
 <h1><b>🛠️Tech Stack</b></h1>
-<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B8%B0%EB%8A%A5%20%EB%85%B9%ED%99%94%EB%B3%B8.gif" alt="테크스택"/>
+<img src="https://github.com/Fk1128/ittrip-project/blob/test/projectImg/TechStack.png" alt="테크스택"/>
 
 
 
