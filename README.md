@@ -1,17 +1,23 @@
 
-<h1></h1>
+<h1>ItTrip Service</h1>
 
 <div align="center">
-  <img src=""/> 이미지
+  <img src="https://github.com/Fk1128/ittrip-project/blob/test/img/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
 </div>
 
 <br/>
 
-> 프로젝트 소개글  
+> 🗺️ 여행 계획 관리 서비스
+여행 계획을 쉽고 편리하게 !
+> <br/>
+> 여행 제목과 날짜를 설정하고,
+> 경로와 준비물까지 한 번에 관리할 수 있는 서비스입니다. 
+> <br/>
+> 더불어, 지역별 추천 관광지, 숙박업소, 음식점 정보를 제공하여 여행 준비를 더욱 완벽하게 도와드립니다.
 
 <br/>
 <p align="center">
-  <a href="https://dandi-ary.site" ><del>프로젝트 링크 </del></a>
+  <a href="http://ittrip.shop"><del></del> 🔗 지금 바로 ItTrip 사용하기</a>
 </p>
 <br/>
 
